@@ -1,5 +1,5 @@
 
-# 🧠 Employee Attrition Classification
+# 🧠 Employee Attrition Classification (Machine Learning)
 
 ### 📘 Overview
 
